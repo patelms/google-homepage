@@ -1,0 +1,35 @@
+#header {
+	height: 40px; 
+	display: block;
+}
+#headertext {
+	float: right;
+	height: 40px;
+	margin-top: auto;
+	margin-bottom: auto;
+}
+#mainlogo {
+	height: 92px; 
+	width: 272px;
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	padding-top: 200px;
+	padding-bottom: 20px;	
+}
+#searchfield {
+	margin:auto;
+	width: 180px;
+}
+li {
+	display: inline;
+	margin-left: 10px;
+}
+#footer { /*keeps footer at the bottom*/
+	background-color: #f2f2f2; 
+	height: 40px;
+	position: absolute;
+	left: 0;
+	right: 0;
+	bottom: 0;
+}
